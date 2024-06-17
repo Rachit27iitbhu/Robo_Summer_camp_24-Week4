@@ -31,9 +31,11 @@ CNNs generally have many hidden or convolution layers, here we face a problem, a
 
 Another downside to this is that the corner pixels of the input image only contribute to one of the output pixels, whereas the middle pixels have been accessed multiple times by the 3X3 filter and hence used more for the output pixels. Thus, making **a lot of information from the corner elements vanish**.
 
+<br>
 <p align="center">
   <img src="https://maucher.home.hdm-stuttgart.de/Pics/gif/same_padding_no_strides.gif" width ="300">
 </p>
+<br>
 
 **Padding** is one simple solution to overcome both these problems. We just add some extra layer of pixels surrounding the input image, a Pad (with pixel value 0). So, in our example, the 5X5 image will become 7X7 after applying a pad of one pixel around the image. This solves the shrinking of image as well as loss of information from corner elements
 
