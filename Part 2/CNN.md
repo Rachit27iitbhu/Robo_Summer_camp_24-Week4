@@ -57,7 +57,7 @@ Try to think and figure out on your own how this formula is justified. If you do
 Now, that you know what a kernel is and how it operates on the input image, it's time we learn how it's used. In a CNN architecture, the first few convolutional layers are used to detect edges or outlines of the object, a few hidden layers later, they start detecting small features of an object, e.g. eyes, nose, etc, and the ending few layers spam out to detect complete objects. Let's see how we can detect edges in an image.<br>
 <br>
 <p align="center">
-  <img src="https://i.stack.imgur.com/JGMP6.png" width ="650">
+  <img src="https://media5.datahacker.rs/2018/10/multiplication_slicice.png" width ="650">
 </p>
 <br>
 Here, we take an example of a 6 by 6 input image. The image is a greyscale image with the values written in the matrix denoting the intensity of colour on a pixel, 0 being black and 256 being white. We convolve it with a 3 by 3 filter to obtain an output image of size 4 by 4. How do we get the size 4 by 4 you ask ?
