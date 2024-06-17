@@ -1,4 +1,4 @@
-#Welcome to the world of neural networks
+# Welcome to the world of neural networks
 
 Have you ever wondered how your smartphone recognizes your face to unlock itself, or how Google assistant and ChatGPT can answer anything you want to ask? These everyday marvels are powered by a technology called neural networks, which are at the heart of many of today's most advanced artificial intelligence systems.
 
