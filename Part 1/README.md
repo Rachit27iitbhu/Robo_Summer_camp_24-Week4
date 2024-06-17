@@ -15,8 +15,8 @@ This week will be divided into three subparts:
 So, let’s dive in and get started on Neural Networks! Remember, we’re here to provide guidance and support every step of the way. Enjoy the journey! 🤖🚀
 
 # INDEX
-1) #### [Introduction to Neural Networks](MD file link)
-2) #### [Optimization](MD file link)
-3) #### [Pytorch](MD file link)
+1) #### [Introduction to Neural Networks](Part 1/Subpart 1/NN.md)
+2) #### [Optimization](Part 1/Subpart 2/Optimization.md)
+3) #### [Pytorch](Part 1/Subpart 3/Pytorch.md)
 4) #### [Title](MD file link)
 5) #### [Title](MD file link)
