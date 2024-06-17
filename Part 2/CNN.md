@@ -33,7 +33,7 @@ Another downside to this is that the corner pixels of the input image only contr
 
 <br>
 <p align="center">
-  <img src="https://maucher.home.hdm-stuttgart.de/Pics/gif/same_padding_no_strides.gif" width ="300">
+  <img src="[https://maucher.home.hdm-stuttgart.de/Pics/gif/same_padding_no_strides.gif](https://maucher.home.hdm-stuttgart.de/Pics/gif/same_padding_no_strides.gif)" width ="300">
 </p>
 <br>
 
